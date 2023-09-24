@@ -1,3 +1,5 @@
+![alt text](Amorn.jpg)
+
 # Who AM I
 + name
 * ชื่อสกุล
